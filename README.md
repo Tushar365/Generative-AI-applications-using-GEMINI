@@ -1,6 +1,15 @@
 
 ## Title: Generative AI Applications with GEMINI
 
+
+[Demo Video - 1](https://youtu.be/MmZfhYH9Sz0?si=D6I4wlyC8_Sia3-x)
+
+[Demo Video - 2](https://youtu.be/6ZhDQIg6PIo?si=MgB1rN2eO_8a3FzO)
+
+[Demo Video - 3](https://youtu.be/KMVb8rHaj9k?si=LQQhtchTQfG0Pa7Z)
+
+
+
 Description:
 This repository demonstrates the capabilities of Google's GEMINI Generative AI model in building innovative applications across three key areas:
 
